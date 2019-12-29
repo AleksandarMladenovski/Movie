@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="tab_name">TabName</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="bundle_extra_key">bundleExtra</string>
+    <string name="movie_name_key">nameOfMovie</string>
+    <string name="movie_image_url_key">movieImageUrl</string>
+    <string name="movie_description_key">movieDescription</string>
+    <string name="menu_item_sort_name">SORT</string>
+    <string name="menu_item_search_hint">Enter Movie Name</string>
+</resources>
